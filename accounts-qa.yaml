@@ -1,0 +1,9 @@
+
+build:
+  version: "1.0"
+
+app:
+  mode: "qa"
+  message: "Welcome to curemap accounts QA env APIs"
+  contactDetails:
+    name: "qa_lead@gmail.com"

@@ -1,0 +1,9 @@
+
+build:
+  version: "1.0"
+
+app:
+  mode: "dev"
+  message: "Welcome to curemap accounts DEV env APIs"
+  contactDetails:
+    name: "winstyngyen@gmail.com"

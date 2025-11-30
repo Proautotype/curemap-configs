@@ -1,0 +1,9 @@
+
+build:
+  version: "1.0"
+
+app:
+  mode: "prod"
+  message: "Welcome to curemap accounts PROD env APIs"
+  contactDetails:
+    name: "prod_lead@gmail.com"
