@@ -6,4 +6,4 @@ app:
   mode: "qa"
   message: "Welcome to curemap accounts QA env APIs"
   contactDetails:
-    name: "qa_lead@gmail.com"
+    name: "{cipher}dff7b004c182075bb2ab0bb05210fd3c80501a5f70556789508d57aa17cd74f7513d67bbc3339fd422e5aa37b23cfa4e"

@@ -6,4 +6,4 @@ app:
   mode: "prod"
   message: "Welcome to curemap accounts PROD env APIs"
   contactDetails:
-    name: "prod_lead@gmail.com"
+    name: "{cipher}c45f1cf4fd0cb73d8ff0ff55c83e1c98e0093911794d0fdda0a72d70fbf6f28055e86c8c4135a62190ed317c4d4cc479"
